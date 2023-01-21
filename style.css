@@ -1,0 +1,23 @@
+
+nav ul {
+  
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #b9c8df;
+  }
+  
+  .jumbotron img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+
+#projects {
+  background-color: #b9c8df;
+}
+
+section {
+  padding-top: 5rem;
+}
