@@ -1,5 +1,5 @@
 // typing effect
-const txtElement = ["freelancer", "Web Developer", "Grapic Designer"];
+const txtElement = ["Web Desginer","Front end Developer"];
 let count = 0;
 let txtIndex = 0;
 let currenTxt = '';
@@ -19,7 +19,7 @@ let words = '';
         txtIndex = 0;
     }
 
-    setTimeout(ngetik, 400);
+    setTimeout(ngetik, 350);
 
 })();
 // end typing effect
